@@ -1,0 +1,17 @@
+
+{
+ "ques" : [" Who is the father of C language?",
+           " Which of the following is not a valid C variable name?",
+           " All keywords in C are in",
+           "Which of the following cannot be a variable name in C?"
+           ],
+ "options" :[
+     ["Steve Jobs","James Gosling","Dennis Ritchie","Rasmus Lerdorf"],
+     ["int number","float rate","int variable_count","int $main"],
+     ["LowerCase letters","UpperCase letters","CamelCase letters","None of these"],
+     ["volatile"," True","Friend","Export"]
+     ],
+ 
+  "ans" : [3,4,1,1]
+ 
+ }
